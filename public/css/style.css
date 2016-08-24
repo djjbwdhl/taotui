@@ -1,0 +1,189 @@
+.homepage {
+    font-size: 35px;
+    font-weight: bolder;
+    padding: 20px;
+    text-align: center;
+}
+
+.all_extension {
+    background: #e8e8e8;
+    width: 1000px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: red;
+    margin: 0 auto;
+}
+
+.logo_TG {
+    margin-top: 10px;
+    width: 150px;
+    height: 110px;
+    border: 1px solid #ccc;
+}
+
+.content_TG {
+    margin-top: 10px;
+    width: 800px;
+    height: 110px;
+    border: 1px solid #ccc;
+    margin-left: 40px;
+}
+
+.zw1 {
+    font-size: 18px;
+    font-weight: bolder;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.ys1 {
+    color: #E01950;
+}
+
+.zw2 {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 5px 5px 0 5px;
+}
+
+.zw3 {
+    margin-top: 15px;
+    line-height: 30px;
+}
+
+.ys2 {
+    color: #232122;
+}
+
+.height_lr {
+    height: 250px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.tbody {
+    width: 1000px;
+    margin: 0 auto;
+    height: 600px;
+}
+
+.head {
+    height: 200px;
+}
+
+.head_1 {
+    width: 160px;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+.lianjie {
+    line-height: 40px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.lianjie_1 {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.lianjie_2 {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.lianjie_3 {
+    margin-left: 5px;
+}
+
+.head_2 {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.head_3 {
+    margin-top: 66px;
+    margin-left: -5px;
+}
+
+.matter {
+    height: 400px;
+    width: 1000px;
+    margin-top: 30px;
+}
+
+.matter-1 {
+    height: 350px;
+    line-height: 60px;
+    font-size: 16px;
+    font-weight: bolder;
+    width: 250px;
+    border-right: 1px solid #ADAAAA;
+    margin-left: 10px;
+}
+
+.matter1 {
+    height: 350px;
+    line-height: 45px;
+    font-size: 16px;
+    font-weight: bolder;
+    width: 300px;
+    border-right: 1px solid #ADAAAA;
+}
+
+.matter2 {
+    font-size: 14px;
+    width: 695px;
+}
+
+.matter_1 {
+    margin-top: 60px;
+}
+
+.pingpai_1 {
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: "方正舒体";
+    color: blue;
+    text-align: center;
+}
+
+.matter_2 {
+    font-size: 16px;
+    line-height: 25px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.matter_3 {
+    font-size: 16px;
+    line-height: 35px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.contour {
+    margin-top: 80px;
+    width: auto;
+}
+
+.bottom {
+    margin-top: 30px;
+    height: 200px;
+}
+
+.bottom_1 {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.bottom_2 {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+}
