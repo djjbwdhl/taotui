@@ -57,6 +57,7 @@ class IndexController extends Yaf_Controller_Abstract {
 			$this->session->set(ADMIN_USER, $admin);
 			$this->redirect('/admin/index');
 		}
+		Yaf_Dispatcher::getInstance()->disableView();
 	}
 
 	//退出登录
